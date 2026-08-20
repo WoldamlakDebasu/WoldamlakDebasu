@@ -1,51 +1,39 @@
 👋 Hey, I’m Woldamlak Debasu
 
-I’m a developer who loves turning ideas into real products. Most of my work sits at the intersection of software development and problem solving — building tools, apps, and systems that actually make life easier.
+I build reliable backend systems that keep e-commerce operations running smoothly — especially around inventory, stockouts, and order flow.
 
-💡 What I Do
+Most of my work sits at the intersection of backend development and operational automation: turning messy inventory processes into systems that actually prevent problems before they hit the customer.
 
-Build end-to-end applications — from backend APIs to frontend interfaces
+### What I focus on
 
-Work with JavaScript & Python to create reliable, scalable solutions
+- Shopify backend operations & inventory systems  
+- Real-time inventory level monitoring and low-stock alerts  
+- Stockout prevention logic and automated replenishment workflows  
+- Custom backend APIs and automation that reduce manual work for ops teams  
+- Clean, maintainable code that ops and engineering can both trust
 
-Explore ways to use automation and AI when it makes sense (not just for buzz)
+### Tools I work with daily
 
-Focus on clean design, solid code, and usability
+- **Languages & frameworks**: JavaScript, Python, Node.js  
+- **Shopify**: Admin API, GraphQL, webhooks, metafields, inventory locations  
+- **Automation**: n8n, Make, custom scripts, scheduled jobs  
+- **Databases**: SQL & NoSQL for inventory history and audit trails  
+- **Infra**: Git, Docker, AWS / GCP, REST & GraphQL APIs  
 
-🚀 What I’m Working On
+### Recent focus
 
-Improving my skills in full-stack development
+- Inventory monitoring systems that surface stock risk early  
+- Automated workflows that catch discrepancies between Shopify and warehouses  
+- Backend tools that give operations teams clearer visibility and fewer fire drills  
 
-Building projects that automate everyday workflows
+### Open to
 
-Experimenting with maps, data visualizations, and interactive web apps
+Remote Shopify backend operations, inventory automation, and stockout-prevention projects.  
+Happy to jump into existing systems or build new monitoring & automation layers from scratch.
 
-🛠️ My Toolbox
+📫 Connect
 
-Languages & Frameworks: JavaScript, Python, Node.js, React
-
-Databases: SQL, NoSQL
-
-Tools: Git, Docker, APIs, Cloud (AWS, GCP)
-
-Extras: n8n, Make, workflow automation
-
-🤝 Open To
-
-Collaborating on interesting projects
-
-Remote opportunities in software & product development
-
-Connecting with other developers and builders
-
-📫 Connect with me on:
-- [GitHub](https://github.com/WoldamlakDebasu)
+- [GitHub](https://github.com/WoldamlakDebasu)  
 - [LinkedIn](https://www.linkedin.com/in/wodak-debasu/)
 
-Let's build something amazing together!
-
-
-<!---
-WoldamlakDebasu/WoldamlakDebasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s keep the inventory accurate and the stockouts rare.
